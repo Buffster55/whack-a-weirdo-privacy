@@ -2,7 +2,7 @@
 
 **Effective date:** October 29, 2026
 **Developer and data controller:** Robert Vandal, operating independently as Buffster in Québec, Canada
-**Privacy contact:** robert195505@pm.me
+**Privacy contact:** buffstersquest-support.skating711@passfwd.com
 
 ## About Whack-a-Weirdo
 
@@ -34,7 +34,7 @@ Local game records remain on the headset until removed using the headset's app-d
 
 ## Your choices and deletion requests
 
-You can enjoy the offline game without using optional worldwide leaderboards. You can remove local game information through Quest app-data management or uninstalling the app; this may erase saved scores and preferences. To ask what information the developer holds about you, request correction or deletion, or raise a privacy concern, email **robert195505@pm.me** with the subject **“Whack-a-Weirdo privacy request”**. Deletion requests are free. We may ask for minimal information needed to identify the relevant records, but never for a password. We will delete data we control where applicable and explain any justified limitation. If the requested information is stored by Meta rather than by Buffster, we will point you to Meta's relevant account/privacy controls and assist where technically possible.
+You can enjoy the offline game without using optional worldwide leaderboards. You can remove local game information through Quest app-data management or uninstalling the app; this may erase saved scores and preferences. To ask what information the developer holds about you, request correction or deletion, or raise a privacy concern, email **buffstersquest-support.skating711@passfwd.com** with the subject **“Whack-a-Weirdo privacy request”**. Deletion requests are free. We may ask for minimal information needed to identify the relevant records, but never for a password. We will delete data we control where applicable and explain any justified limitation. If the requested information is stored by Meta rather than by Buffster, we will point you to Meta's relevant account/privacy controls and assist where technically possible.
 
 ## Security and updates
 
@@ -44,6 +44,6 @@ The game is designed to minimize data sent outside the headset and use Meta's au
 
 **Buffster — Robert Vandal (independent developer)**  
 Québec, Canada  
-**robert195505@pm.me**
+**buffstersquest-support.skating711@passfwd.com**
 
 _Whack-a-Weirdo · Buffster · Québec, Canada_
